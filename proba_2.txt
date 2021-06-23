@@ -1,3 +1,5 @@
 kettő
 három
 négy
+öt
+hat
